@@ -1,0 +1,23 @@
+git init
+git add .
+git commit -m "hola"
+
+¿Como redactar?
+
+Conocimiento
+
+Googlear habilidades o tecnicas usadas para la redaccion.
+
+Bookmarking en una lista los enlaces mas interesante. 
+
+Subir la informacion en formato markdonw al repositorio de github.
+
+Comprender
+
+Categorizar las habilidades o tecnicas necesarias antes, durante y despues para una correcta redacion de un documento.
+
+Subir la categorizacion en formato markdown al github.
+
+Aplicar
+
+Las habilidades antes, durante y despues aprendidas en la redacion de un documento de tema libre. 
